@@ -13,7 +13,10 @@ function AboutMe() {
                         Working there gave me a solid foundation on the professional application of all previous knowledge gained during
                         college as well as many importnant skills including maintaining web applications, website version control,
                         and effective collaboration with development team.</p>
-                    <button className="resumeButton">Download Resume</button>
+                    <form method="get" action="src/assets/FaridResume.pdf">
+                        <button type="submit" className="resumeButton">Download Resume</button>
+                    </form>
+                    
                 </div>
             </div>
         </>
