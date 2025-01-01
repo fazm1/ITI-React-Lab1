@@ -1,0 +1,14 @@
+.rightFooter{
+    float: right;
+    margin-top: -90px;
+    margin-right: 30px;
+}
+.leftFooter{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 160px;
+}

@@ -1,0 +1,18 @@
+.myImage{
+    margin-top: -210px;
+    float: right;
+}
+.firstCard{
+    height:500px;
+    background-color: black;
+    color: white;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+.myButton{
+    margin-top: 70px;
+    border-color: grey;
+    background-color: transparent;
+    text-transform: uppercase;
+    color: white
+}
