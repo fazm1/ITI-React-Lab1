@@ -11,8 +11,8 @@ function Footer(){
                <p><img src = "src/assets/phone-solid.svg" width="30px" height="15px"/> +201110366720</p>
             </div>
             <div className="rightFooter">
-                <a href="https://www.linkedin.com/in/farid-azzam-2882051b2/"><img src="src/assets/linkedin-in-brands-solid.svg" width="30px" height="30px"/></a>
-                <a href="https://github.com/fazm1"><img src="src/assets/github-brands-solid.svg" width="30px" height="30px"/></a>
+                <a href="https://www.linkedin.com/in/farid-azzam-2882051b2/"><img src="src/assets/linkedin-in-brands-solid.svg" width="40px" height="60px"/></a>
+                <a href="https://github.com/fazm1"><img src="src/assets/github-brands-solid.svg" width="40px" height="60px"/></a>
 
                 <p>Copyright ©2025 FA</p> 
             </div>
